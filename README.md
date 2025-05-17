@@ -1,1 +1,1 @@
-# kgv-usi.github.io
+# mylog-discussion
