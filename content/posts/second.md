@@ -10,4 +10,4 @@ draft: false
 lang: ''
 ---
 ![杀生鱼丸](https://https://kgoat.pages.dev/myblog/imgs/f730ecd5-11ec-4386-acd9-dfe9772c8a8f.webp) 失败
-![杀生鱼丸](https://https://pub-7a159f58881c424ea34829ac043baaae.r2.dev/myblog/imgs/60cab3ed-a44f-4305-b83a-d3319c457dda.webp)
+![杀生鱼丸](https://pub-7a159f58881c424ea34829ac043baaae.r2.dev/myblog/imgs/60cab3ed-a44f-4305-b83a-d3319c457dda.webp)
